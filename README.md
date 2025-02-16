@@ -1,27 +1,30 @@
-<h1>Hi, I'm Larion !<a href="https://www.linkedin.com/in/joshmadakor/"> Google Cybersecurity Professional</a>, 
+<h1>Hi, I'm Larion ! Google Cybersecurity Professional</a>, 
 
-<h2> Cybersecuirty Projects:</h2>
+<h2> Cybersecuirty Work Samples:</h2>
 
-  - [Conducting a secuirty audit](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [File Permissions in Linux](https://github.com/joshmadakor1/Algorithms-Practice)
-  -[Apply Filters To SQL queries](https://github.com/joshmadakor1/Algorithms-Practice)
- - [Algorithm for file updates in python](https://github.com/joshmadakor1/Algorithms-Practice)
- - [Vunerability assessment report](https://github.com/joshmadakor1/Algorithms-Practice)
- - [Controls and Compliance Check List](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Conducting a secuirty audit](https://docs.google.com/document/d/1JlwYH_2xQorQVHZth_jSQftEXXAhC7sCe9Wk7vXGV4s/edit?usp=sharing)
+  - [File Permissions in Linux](https://docs.google.com/document/d/1uZ7Nktnqt3n5AZefyW0Oad4pEJrCblfUN1FRM2wwdJY/edit?usp=sharing)
+  -[Apply Filters To SQL queries](https://docs.google.com/document/d/1MnopEqtYSqVxqmNB7tr-zJt2hw20uGOdLsLUO3j7Pk8/edit?usp=sharing)
+ - [Algorithm for file updates in python](https://docs.google.com/document/d/1Grop9oDtJv3-nti1HgFyT2KU5Hpeq4SdFUSpCor7wZo/edit?usp=sharing)
+ - [Vunerability assessment report](https://docs.google.com/document/d/1l1WgSuqWw4Y09W6q3CsLbe1dadLK813Cwhiehgo8EHs/edit?usp=sharing)
 
-<h2> Certifcations </h2>
+   <h2> Projects </h2>
 
 - [Google Cybersecuirty analyst](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-  <h2> Work Experience </h2>
+  <h2> Skills Gained </h2>
 
 - [Resume](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+ <h2> Certifcations </h2>
+
+- [Google Cybersecuirty analyst](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2>  Connect with me:</h2>
 
 [<img align="left" alt="larion | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/larion-morris-382644260
+[linkedin]: https://www.linkedin.com/in/larion-morris-382644260/?trk=public-profile-join-page
 
 
 <!--
