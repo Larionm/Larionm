@@ -14,7 +14,7 @@ Cybersecurity professional with a passion for securing networks, identifying vul
 
    <h2> Projects </h2>
 
-- [Performing a query with SPLUNK](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Creating a Vulnerability scanner using python](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
   <h2> Skills Gained </h2>
 
