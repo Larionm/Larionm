@@ -26,7 +26,7 @@ Cybersecurity professional with a passion for securing networks, identifying vul
 
  <h2> Education </h2>
 
-- [Google Cybersecuirty analyst](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecuirty analyst](file:///C:/Users/lario/Downloads/Cybersecurity%20certificate.pdf)
 
 <h2>  Contact Information:</h2>
 
