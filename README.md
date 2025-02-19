@@ -14,15 +14,13 @@ Cybersecurity professional with a passion for securing networks, identifying vul
 
    <h2> Projects </h2>
 
-- [Creating a Vulnerability scanner using python](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- Creating a Vulnerability scanner using python (A tool to detect open ports and security weaknesses) https://github.com/Larionm/Larionm/blob/main/Vulnerability%20scanner
 
   <h2> Skills Gained </h2>
 
-  Attached are work samples of work I have completed for each skill set: 
-
-- [Network Security](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Python Programming](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Cloud Computing](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- Network Security
+- Python Programming
+- Cloud Computing
 
  <h2> Education </h2>
 
@@ -32,19 +30,6 @@ Cybersecurity professional with a passion for securing networks, identifying vul
 
 Email: If you would like to reach me you can email me at Larionmorris0@gmail.com
 
+- [linkedin](https://www.linkedin.com/in/larion-morris-382644260/)
 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
