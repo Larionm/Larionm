@@ -30,9 +30,8 @@ Cybersecurity professional with a passion for securing networks, identifying vul
 
 <h2>  Contact Information:</h2>
 
-Email: Larionmorris0@gmail.com
+Email: If you would like to reach me you can email me at Larionmorris0@gmail.com
 
-[Linkedin]: https://www.linkedin.com/in/larion-morris-382644260/?trk=public-profile-join-page
 
 
 <!--
