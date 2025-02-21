@@ -14,8 +14,7 @@ Cybersecurity professional with a passion for securing networks, identifying vul
 
    <h2> Projects </h2>
 
-- Creating a Vulnerability scanner using python (A tool to detect open ports and security weaknesses) https://github.com/Larionm/Larionm/blob/main/Vulnerability%20scanner
-
+- Creating a Vulnerability scanner using python (A tool to detect open ports and security weaknesses) https://github.com/Larionm/Larionm/blob/main/Vulnerability-Scanner
   <h2> Skills Gained </h2>
 
 - Network Security
