@@ -2,7 +2,7 @@
 
 <h2> About Me </h2>
 
-"Network security, vulnerability analysis, and security solution implementation are things that I'm quite passionate about. Risk assessment, incident response, and penetration testing are among my areas of competence. I keep learning more about threat intelligence and ethical hacking.
+Network security, vulnerability analysis, and security solution implementation are things that I'm quite passionate about. Risk assessment, incident response, and penetration testing are among my areas of competence. I keep learning more about threat intelligence and ethical hacking.
 
 <h2> Cybersecuirty Work Samples:</h2>
 
