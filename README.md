@@ -1,8 +1,8 @@
-<h1>Hello, I'm Larion! Nice to meet you I am a Google Cybersecurity Professional</a>, 
+<h1> Hi, I'm Larion. Nice to meet you. I work as an entry-level cybersecurity analyst. </a> 
 
 <h2> About Me </h2>
 
-Cybersecurity professional with a passion for securing networks, identifying vulnerabilities, and implementing robust security solutions. Experienced in penetration testing, security risk assessment, and incident response. Constantly expanding my knowledge of threat intelligence and ethical hacking methodologies.
+"Network security, vulnerability analysis, and security solution implementation are things that I'm quite passionate about. Risk assessment, incident response, and penetration testing are among my areas of competence. I keep learning more about threat intelligence and ethical hacking.
 
 <h2> Cybersecuirty Work Samples:</h2>
 
