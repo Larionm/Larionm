@@ -2,11 +2,11 @@
 
 <h2> About Me </h2>
 
-Hi there! My name is Larion, and I'm an ambitious and motivated entry-level cybersecurity analyst who is passionate about defending digital systems against online attacks. Despite the fact that my career is just getting started, I have devoted my time to learning, creating projects, and honing my practical abilities in network security, ethical hacking, and vulnerability assessment.
+Hi there! My name is Larion, and I'm an ambitious and motivated entry-level cybersecurity analyst who is passionate about defending digital systems against online attacks. Although I am at the beginning of my career, I have actively built a strong foundation in network security, ethical hacking, and vulnerability assessment through hands-on projects and continuous learning.
 
 With my solid background in network protocols, Linux security, and automation with Python scripting, I continue to learn more through independent research, security labs, and Capture the Flag (CTF) challenges. Developing a Python vulnerability scanner and doing security audits on test environments are two recent projects that have helped me hone my problem-solving skills.
 
-Right now, my main goals are to become certified in areas like CompTIA Security+ and hone my abilities in cloud security, incident response, and penetration testing. It excites me to join a team where I can develop, contribute, and assist fortify cybersecurity defenses by bringing my analytical approach, enthusiasm to learn, and strong problem-solving abilities.
+I am currently working toward CompTIA Security+ certification while expanding my expertise in cloud security, incident response, and penetration testing to strengthen my cybersecurity skill set. It excites me to join a team where I can develop, contribute, and assist fortify cybersecurity defenses by bringing my analytical approach, enthusiasm to learn, and strong problem-solving abilities.
 
 I'm always up for talking about cybersecurity, picking the brains of specialists in the field, and investigating novel security issues. Let's connect!
 
@@ -24,15 +24,15 @@ I'm always up for talking about cybersecurity, picking the brains of specialists
 - Built a Python-based vulnerability scanner using Scapy to detect open ports and common security misconfigurations. Integrated logging and reporting features for security analysis (A tool to detect open ports and security weaknesses) https://github.com/Larionm/Larionm/blob/main/Vulnerability-Scanner
   <h2> Skills Gained </h2>
 
+- Problem solving
 - Network Security
 - Python Programming
 - Cloud Computing
 - Communication
 - Linux
 - SQL
-- Security Information and Event Management (SIEM) tools
+- Security Information and Event Management (SIEM) tools tools (Splunk, etc.)
 - Intrusion Detection Systems (IDS)
-- problem solving
 
  <h2> Education </h2>
 
