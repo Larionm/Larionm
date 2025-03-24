@@ -21,7 +21,6 @@ I'm always up for talking about cybersecurity, picking the brains of specialists
 
    <h2> Projects </h2>
 
-- Built a Python-based vulnerability scanner using Scapy to detect open ports and common security misconfigurations. Integrated logging and reporting features for security analysis (A Python-based tool designed to detect open ports, identify vulnerabilities, and analyze security weaknesses.) https://github.com/Larionm/Larionm/blob/main/Vulnerability-Scanner
   <h2> Skills Gained </h2>
 
 - Problem solving
