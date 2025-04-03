@@ -19,7 +19,7 @@ I'm always up for talking about cybersecurity, picking the brains of specialists
  - [Vunerability assessment report](https://docs.google.com/document/d/1l1WgSuqWw4Y09W6q3CsLbe1dadLK813Cwhiehgo8EHs/edit?usp=sharing) Conducted a simulated vulnerability assessment using tools like Nmap and OpenVAS. Documented findings and recommended security enhancements based on industry best practices.
  - [Apply Filters To SQL queries](https://docs.google.com/document/d/1MnopEqtYSqVxqmNB7tr-zJt2hw20uGOdLsLUO3j7Pk8/edit?usp=sharing) Implemented SQL filtering techniques to prevent SQL injection attacks. Demonstrated how input validation and parameterized queries improve database security.
 
-   <h2> Projects </h2>
+   <h2> Personal Projects </h2>
 
 - **[🔐Secure Password Generator](https://github.com/Larionm/password-generator)**   
   Developed a **secure password generator** with a built-in **strength meter** and **user-friendly GUI** using Python and Tkinter. Ensures strong, randomized passwords with customizable options for security best practices.
