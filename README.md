@@ -24,7 +24,7 @@ I'm always up for talking about cybersecurity, picking the brains of specialists
 - **[🔐Secure Password Generator](https://github.com/Larionm/password-generator)**   
   Developed a **secure password generator** with a built-in **strength meter** and **user-friendly GUI** using Python and Tkinter. Ensures strong, randomized passwords with customizable options for security best practices.
   
-- **[Cybersecurity Chatbot](https://github.com/Larionm/cybersecurity-chatbot)** 🛡️  
+- **[🛡️Cybersecurity Chatbot](https://github.com/Larionm/cybersecurity-chatbot)**   
   *A chatbot with encrypted logging, real-time threat detection, and security monitoring.*
 
 
