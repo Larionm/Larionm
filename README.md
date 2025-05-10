@@ -27,6 +27,10 @@ I'm always up for talking about cybersecurity, picking the brains of specialists
 - **[🛡️Cybersecurity Chatbot](https://github.com/Larionm/cybersecurity-chatbot)**   
   *A chatbot with encrypted logging, real-time threat detection, and security monitoring.*
 
+- [Kali Nmap Localhost Scan](https://github.com/https://github.com/Larionm/kali-nmap-localhost-scan)  
+  Performed a basic recon scan using Nmap inside a Kali Linux lab environment. Saved results, documented findings, and practiced port/service enumeration.
+
+
 
 
   <h2> Skills Gained </h2>
