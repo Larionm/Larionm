@@ -30,6 +30,10 @@ I'm always up for talking about cybersecurity, picking the brains of specialists
 - [🔎Kali Nmap Localhost Scan](https://github.com/Larionm/kali-nmap-localhost-scan)  
   Performed a basic recon scan using Nmap inside a Kali Linux lab environment. Saved results, documented findings, and practiced port/service enumeration.
 
+ - **[📡Metasploitable 2 Nmap Recon](https://github.com/Larionm/metasploitable-nmap-recon/tree/main)**
+   Nmap scan and analysis of a vulnerable VM. Identified insecure services and documented results as part of a threat hunting lab exercise.
+
+
 
 
 
