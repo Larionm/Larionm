@@ -38,16 +38,26 @@ I'm always up for talking about cybersecurity, picking the brains of specialists
 
 
 
-##  Tools & Technologies I’ve Worked With
+🛠️ Tools & Technologies I’ve Worked With
+⚙️ Systems & Environments
+🐧 Kali Linux – Offensive testing environment used for recon and scanning
 
--  Python (secure scripting, GUIs)
--  Kali Linux (offensive testing environment)
--  Metasploitable 2 (vulnerability lab target)
--  Nmap (recon and port scanning)
--  VirtualBox (VM management)
--  Windows Event Viewer (log analysis & triage)
--  GitHub (project documentation & version control)
--  Markdown (technical writing in README.md files)
+🧱 Metasploitable 2 – Vulnerability lab target for hands-on testing
+
+🖥️ VirtualBox – Managed VMs for isolated, controlled testing environments
+
+🧪 Recon & Analysis
+🌐 Nmap – Network scanning, port/service enumeration, OS fingerprinting
+
+🪟 Windows Event Viewer – Manual log analysis for triaging security events (IDs 4625, 4672, etc.)
+
+💻 Scripting & Automation
+🐍 Python – Developed secure scripts, password generators, and chatbot logic
+
+🧠 Markdown – Structured documentation in README.md files
+
+🔐 Version Control & Reporting
+📁 GitHub – Project version control, portfolio building, SOC-style documentation
 
 
   <h2> Skills Gained </h2>
