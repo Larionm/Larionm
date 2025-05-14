@@ -38,10 +38,16 @@ I'm always up for talking about cybersecurity, picking the brains of specialists
 
 
 
+##  Tools & Technologies I’ve Worked With
 
-
-
-
+-  Python (secure scripting, GUIs)
+-  Kali Linux (offensive testing environment)
+-  Metasploitable 2 (vulnerability lab target)
+-  Nmap (recon and port scanning)
+-  VirtualBox (VM management)
+-  Windows Event Viewer (log analysis & triage)
+-  GitHub (project documentation & version control)
+-  Markdown (technical writing in README.md files)
 
 
   <h2> Skills Gained </h2>
