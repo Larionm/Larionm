@@ -36,6 +36,10 @@ I'm always up for talking about cybersecurity, picking the brains of specialists
 - **[🕵️‍♂️ Windows Log Triage – Privilege Escalation Detection](https://github.com/Larionm/windows-log-analysis-soc-triage)**  
 *A SOC-style investigation of Event ID 4672 to identify high-level privilege assignments. Assessed potential for abuse of SeDebugPrivilege and SeImpersonatePrivilege on a local system.*
 
+- [📊 Brute-Force Detection with Splunk (Event ID 4625)](https://github.com/Larionm/splunk-bruteforce-detection)
+A simulated detection of multiple failed login attempts using SPL and log analysis.
+
+
 
 
 🛠️ Tools & Technologies I’ve Worked With
