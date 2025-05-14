@@ -73,9 +73,11 @@ I'm always up for talking about cybersecurity, picking the brains of specialists
 
 
 
- <h2> Education </h2>
+## 🎓 Certifications
 
-- [Google Cybersecuirty analyst](https://coursera.org/share/e616881e9318fa1c312fc9ba968f8df9)
+- Google Cybersecurity Certificate ✅  
+- Currently preparing for CompTIA Security+ 🔄
+
 
 <h2>  Contact Information:</h2>
 
