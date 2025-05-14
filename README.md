@@ -59,18 +59,19 @@ I'm always up for talking about cybersecurity, picking the brains of specialists
 🔐 Version Control & Reporting
 📁 GitHub – Project version control, portfolio building, SOC-style documentation
 
+## 🧠 Skills Gained
 
-  <h2> Skills Gained </h2>
+- 🧩 Problem Solving
+- 🔐 Network Security
+- 🐍 Python Programming
+- ☁️ Cloud Computing
+- 🗣 Communication
+- 🐧 Linux
+- 🗃 SQL
+- 📊 Security Information and Event Management (SIEM) tools (Splunk, etc.)
+- 🛡 Intrusion Detection Systems (IDS)
 
-- Problem solving
-- Network Security
-- Python Programming
-- Cloud Computing
-- Communication
-- Linux
-- SQL
-- Security Information and Event Management (SIEM) tools tools (Splunk, etc.)
-- Intrusion Detection Systems (IDS)
+
 
  <h2> Education </h2>
 
