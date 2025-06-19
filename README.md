@@ -33,6 +33,9 @@ I'm always up for talking about cybersecurity, picking the brains of specialists
  - **[📡Metasploitable 2 Nmap Recon](https://github.com/Larionm/metasploitable-nmap-recon/tree/main)**
    Nmap scan and analysis of a vulnerable VM. Identified insecure services and documented results as part of a threat hunting lab exercise.
 
+ - [🚧pfSense Firewall with pfBlockerNG](https://github.com/Larionm/pfsense-firewall-lab)  
+Built a virtual perimeter firewall using pfSense and pfBlockerNG. Created firewall rules to block ICMP and SSH traffic, enabled DNSBL for ad/malware domain filtering, and validated defenses with test traffic from Kali Linux. Included log analysis, screenshots, and threat feed configuration in a fully documented GitHub lab.
+
 - **[🕵️‍♂️ Windows Log Triage – Privilege Escalation Detection](https://github.com/Larionm/windows-log-analysis-soc-triage)**  
 *A SOC-style investigation of Event ID 4672 to identify high-level privilege assignments. Assessed potential for abuse of SeDebugPrivilege and SeImpersonatePrivilege on a local system.*
 
