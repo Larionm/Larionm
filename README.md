@@ -11,7 +11,7 @@ Currently, I’m preparing for the **Blue Team Level 1 (BTL1)** certification wh
 If you're interested in defensive security, threat hunting, or SOC tooling — let’s connect.
 
 
-   <h2> Personal Projects </h2>
+   <h2> Personal Projects: </h2>
 
 - [🔎Kali Nmap Localhost Scan](https://github.com/Larionm/kali-nmap-localhost-scan)  
   Performed a basic recon scan using Nmap inside a Kali Linux lab environment. Saved results, documented findings, and practiced port/service enumeration.
@@ -55,7 +55,7 @@ A simulated detection of multiple failed login attempts using SPL and log analys
 - Git & GitHub – Used for version control, project publishing, and SOC portfolio organization
 
 
-##  Skills Gained
+##  Skills Gained:
 
 - Threat Detection – Built and tested detection rules in Splunk for brute-force and PowerShell attacks
 - Log Analysis – Investigated Windows Event Logs (IDs 4625, 4672) for privilege escalation and failed logins
@@ -68,14 +68,14 @@ A simulated detection of multiple failed login attempts using SPL and log analys
 
 
 
-## Certifications
+## Certifications:
 
 - Google Cybersecurity Certificate – Completed  
 - Blue Team Level 1 (BTL1) – In progress, focused on SOC operations, detection engineering, and log analysis
 
 
 
-## Contact
+## Contact:
 
 Feel free to reach out if you'd like to connect or collaborate:
 
