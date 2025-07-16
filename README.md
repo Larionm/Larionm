@@ -1,14 +1,14 @@
-<h1> Hi, I'm Larion. Nice to meet you. I work as an entry-level cybersecurity analyst. </a> 
+<h1> Hi, I'm Larion. I build detection workflows and analyze logs in my SOC home lab to develop real-world blue team skills. </a> 
 
 <h2> About Me </h2>
 
-Hi there! My name is Larion, and I'm an ambitious and motivated entry-level cybersecurity analyst who is passionate about defending digital systems against online attacks. Although I am at the beginning of my career, I have actively built a strong foundation in network security, ethical hacking, and vulnerability assessment through hands-on projects and continuous learning.
+Hi, I’m Larion — an aspiring SOC analyst with a strong interest in threat detection, log analysis, and defensive security. I’ve been building a dedicated home lab where I investigate suspicious activity, create detection rules, and simulate real-world attack scenarios using tools like Splunk, pfSense, and Velociraptor.
 
-With my solid background in network protocols, Linux security, and automation with Python scripting, I continue to learn more through independent research, security labs, and Capture the Flag (CTF) challenges. Developing a Python vulnerability scanner and doing security audits on test environments are two recent projects that have helped me hone my problem-solving skills.
+I’m focused on blue team operations and enjoy working with logs, network traffic, and endpoint data to identify patterns, respond to alerts, and improve visibility across systems. I’ve documented SOC-style projects that include brute-force detection, PowerShell anomaly identification, and firewall-based threat blocking.
 
-I am currently working toward CompTIA Security+ certification while expanding my expertise in cloud security, incident response, and penetration testing to strengthen my cybersecurity skill set. It excites me to join a team where I can develop, contribute, and assist fortify cybersecurity defenses by bringing my analytical approach, enthusiasm to learn, and strong problem-solving abilities.
+Currently, I’m preparing for the **Blue Team Level 1 (BTL1)** certification while gaining practical experience through hands-on labs, platforms like TryHackMe and Blue Team Labs, and real-world simulation exercises. My goal is to join a SOC team where I can contribute to monitoring, triage, and continuous improvement of security operations.
 
-I'm always up for talking about cybersecurity, picking the brains of specialists in the field, and investigating novel security issues. Let's connect!
+If you're interested in defensive security, threat hunting, or SOC tooling — let’s connect.
 
 
    <h2> Personal Projects </h2>
@@ -35,53 +35,57 @@ Built a virtual perimeter firewall using pfSense and pfBlockerNG. Created firewa
 A simulated detection of multiple failed login attempts using SPL and log analysis.
 
 
+  
+## Tools & Technologies I've Worked With:
+
+### Systems & Environments
+- Kali Linux – Used for recon, enumeration, and simulated attacks
+- Metasploitable 2 – Vulnerable VM used for practicing Nmap and Metasploit scans
+- VirtualBox – Managed multiple VMs for firewall, SIEM, and endpoint monitoring labs
+- Ubuntu – Used as host environment for Velociraptor and general lab testing
+
+### Detection & Analysis
+- Splunk – Created dashboards and SPL queries for alerting on brute-force and suspicious PowerShell activity
+- Windows Event Viewer – Manually triaged events like failed logons (4625) and privilege escalation (4672)
+- Velociraptor – Deployed for live endpoint monitoring and forensic evidence collection (in progress)
+
+### Network & Threat Monitoring
+- pfSense – Built and configured firewall with LAN/WAN rules and tested threat blocking
+- pfBlockerNG – Enabled DNSBL and IP blocklists for threat feed filtering and ad/malware blocking
+- Nmap – Used for network scanning, port/service enumeration, and OS fingerprinting
+- Metasploit – Used for scanning vulnerabilities and validating recon findings
+
+### Automation & Scripting
+- Python – Wrote scripts for password generation, GUI tools, and chatbot logic
+- Markdown – Wrote technical documentation, lab reports, and README files
+- Git & GitHub – Used for version control, project publishing, and SOC portfolio organization
 
 
-🛠️ Tools & Technologies I’ve Worked With
-⚙️ Systems & Environments
-🐧 Kali Linux – Offensive testing environment used for recon and scanning
+##  Skills Gained
 
-🧱 Metasploitable 2 – Vulnerability lab target for hands-on testing
-
-🖥️ VirtualBox – Managed VMs for isolated, controlled testing environments
-
-🧪 Recon & Analysis
-🌐 Nmap – Network scanning, port/service enumeration, OS fingerprinting
-
-🪟 Windows Event Viewer – Manual log analysis for triaging security events (IDs 4625, 4672, etc.)
-
-💻 Scripting & Automation
-🐍 Python – Developed secure scripts, password generators, and chatbot logic
-
-🧠 Markdown – Structured documentation in README.md files
-
-🔐 Version Control & Reporting
-📁 GitHub – Project version control, portfolio building, SOC-style documentation
-
-## 🧠 Skills Gained
-
-- 🧩 Problem Solving
-- 🔐 Network Security
-- 🐍 Python Programming
-- ☁️ Cloud Computing
-- 🗣 Communication
-- 🐧 Linux
-- 🗃 SQL
-- 📊 Security Information and Event Management (SIEM) tools (Splunk, etc.)
-- 🛡 Intrusion Detection Systems (IDS)
+- Threat Detection – Built and tested detection rules in Splunk for brute-force and PowerShell attacks
+- Log Analysis – Investigated Windows Event Logs (IDs 4625, 4672) for privilege escalation and failed logins
+- Network Security – Created and tested firewall rules using pfSense and pfBlockerNG
+- Endpoint Monitoring – Deployed Velociraptor and collected forensic artifacts (in progress)
+- Python Scripting – Developed secure scripts like a password generator and chatbot for security use cases
+- Linux Administration – Performed file permission audits and worked with Kali & Ubuntu in virtual labs
+- Recon & Enumeration – Used Nmap and Metasploit for scanning, OS fingerprinting, and vulnerability analysis
+- Documentation – Created structured SOC-style documentation using Markdown and GitHub
 
 
 
-## 🎓 Certifications
+## Certifications
 
-- Google Cybersecurity Certificate ✅  
-- Currently preparing for CompTIA Security+ 🔄
+- Google Cybersecurity Certificate – Completed  
+- Blue Team Level 1 (BTL1) – In progress, focused on SOC operations, detection engineering, and log analysis
 
 
-<h2>  Contact Information:</h2>
 
-Email: If you would like to reach me you can email me at Larionmorris0@gmail.com
+## Contact
 
-- [linkedin](https://www.linkedin.com/in/larion-morris-382644260/)
+Feel free to reach out if you'd like to connect or collaborate:
+
+- Larionmorris0@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/larion-morris-/)
 
 
