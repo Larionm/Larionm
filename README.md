@@ -13,12 +13,6 @@ If you're interested in defensive security, threat hunting, or SOC tooling — l
 
    <h2> Personal Projects </h2>
 
-- **[🔐Secure Password Generator](https://github.com/Larionm/password-generator)**   
-  Developed a **secure password generator** with a built-in **strength meter** and **user-friendly GUI** using Python and Tkinter. Ensures strong, randomized passwords with customizable options for security best practices.
-  
-- **[🛡️Cybersecurity Chatbot](https://github.com/Larionm/cybersecurity-chatbot)**   
-  *A chatbot with encrypted logging, real-time threat detection, and security monitoring.*
-
 - [🔎Kali Nmap Localhost Scan](https://github.com/Larionm/kali-nmap-localhost-scan)  
   Performed a basic recon scan using Nmap inside a Kali Linux lab environment. Saved results, documented findings, and practiced port/service enumeration.
 
