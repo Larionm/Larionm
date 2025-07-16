@@ -11,14 +11,6 @@ I am currently working toward CompTIA Security+ certification while expanding my
 I'm always up for talking about cybersecurity, picking the brains of specialists in the field, and investigating novel security issues. Let's connect!
 
 
-<h2> Cybersecuirty Work Samples:</h2>
-
-  - [Conducting a secuirty audit](https://docs.google.com/document/d/1JlwYH_2xQorQVHZth_jSQftEXXAhC7sCe9Wk7vXGV4s/edit?usp=sharing) Performed a security audit on a fictional companies network/system to identify vulnerabilities, misconfigurations, and compliance gaps. Created a detailed report with risk analysis and remediation steps.
-  - [File Permissions in Linux](https://docs.google.com/document/d/1uZ7Nktnqt3n5AZefyW0Oad4pEJrCblfUN1FRM2wwdJY/edit?usp=sharing)  Explored Linux file permissions, access control, and best security practices. Demonstrated how to secure files using chmod, chown, and umask to prevent unauthorized access.
- - [Algorithm for file updates in python](https://docs.google.com/document/d/1Grop9oDtJv3-nti1HgFyT2KU5Hpeq4SdFUSpCor7wZo/edit?usp=sharing) Developed a Python script to securely track and update sensitive files, ensuring data integrity and preventing unauthorized modifications.
- - [Vunerability assessment report](https://docs.google.com/document/d/1l1WgSuqWw4Y09W6q3CsLbe1dadLK813Cwhiehgo8EHs/edit?usp=sharing) Conducted a simulated vulnerability assessment using tools like Nmap and OpenVAS. Documented findings and recommended security enhancements based on industry best practices.
- - [Apply Filters To SQL queries](https://docs.google.com/document/d/1MnopEqtYSqVxqmNB7tr-zJt2hw20uGOdLsLUO3j7Pk8/edit?usp=sharing) Implemented SQL filtering techniques to prevent SQL injection attacks. Demonstrated how input validation and parameterized queries improve database security.
-
    <h2> Personal Projects </h2>
 
 - **[🔐Secure Password Generator](https://github.com/Larionm/password-generator)**   
